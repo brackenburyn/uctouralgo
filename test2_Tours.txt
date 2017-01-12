@@ -1,0 +1,5 @@
+Tour1	1	1
+Tour2	1	0
+Tour3	1	1
+Tour4	1	1
+Tour5	0	1

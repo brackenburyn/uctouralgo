@@ -1,0 +1,6 @@
+Lucy,Tour1,Tour2,Tour3
+Bob,Tour1,Tour3,Tour2
+Mike,Tour3,Tour2,Tour1
+Sue,Tour1,Tour2,Tour3
+Pete,Tour3,Tour1,Tour2
+Luke,Tour2,Tour1,Tour3
