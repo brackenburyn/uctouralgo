@@ -242,5 +242,6 @@ def main():
 	outFile.write(toWrite)
 	outFile.close()
 	print("See output.csv")
+	print("Hi leila!")
 
 main()
