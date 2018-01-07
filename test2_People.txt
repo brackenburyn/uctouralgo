@@ -1,4 +1,0 @@
-Lucy	Tour1	Tour2
-Bob	Tour1	Tour2
-Carol	Tour2	Tour1
-John	Tour1	Tour2

@@ -1,5 +1,0 @@
-My Tour	2	2
-Your Tour	2	2
-Robs Tour	2	2
-Greens Tour	2	2
-Ringos Tour	1	0
